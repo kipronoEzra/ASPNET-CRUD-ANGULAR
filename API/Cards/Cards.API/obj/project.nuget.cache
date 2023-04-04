@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hFr/mIELHv+2jyz9zClidRSkKSITWcwl/fH3QQNupIDecnSTQyGjMLTKqoEl7vmX5UsE3YYSlMWwIwrrSPoRjA==",
+  "dgSpecHash": "wTsseYnmh1tKJA8rOO9G1fJBC6e6qK/5ZESetWJWOof46JG8ghMDh4QeT0XG3JCbfy4U3iJRKgZC0WKZQP22eQ==",
   "success": true,
-  "projectFilePath": "B:\\EXPOSURE PROJECTS\\ASPNET CRUD with angular\\API\\Cards\\Cards.API\\Cards.API.csproj",
+  "projectFilePath": "B:\\EXPOSURE PROJECTS\\ASPNET CRUD ANGULAR\\ASPNET-CRUD-ANGULAR\\API\\Cards\\Cards.API\\Cards.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

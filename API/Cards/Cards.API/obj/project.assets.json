@@ -3728,11 +3728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\EXPOSURE PROJECTS\\ASPNET CRUD with angular\\API\\Cards\\Cards.API\\Cards.API.csproj",
+      "projectUniqueName": "B:\\EXPOSURE PROJECTS\\ASPNET CRUD ANGULAR\\ASPNET-CRUD-ANGULAR\\API\\Cards\\Cards.API\\Cards.API.csproj",
       "projectName": "Cards.API",
-      "projectPath": "B:\\EXPOSURE PROJECTS\\ASPNET CRUD with angular\\API\\Cards\\Cards.API\\Cards.API.csproj",
+      "projectPath": "B:\\EXPOSURE PROJECTS\\ASPNET CRUD ANGULAR\\ASPNET-CRUD-ANGULAR\\API\\Cards\\Cards.API\\Cards.API.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "B:\\EXPOSURE PROJECTS\\ASPNET CRUD with angular\\API\\Cards\\Cards.API\\obj\\",
+      "outputPath": "B:\\EXPOSURE PROJECTS\\ASPNET CRUD ANGULAR\\ASPNET-CRUD-ANGULAR\\API\\Cards\\Cards.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

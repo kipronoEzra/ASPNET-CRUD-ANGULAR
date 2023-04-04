@@ -44,7 +44,7 @@ namespace Cards.API.Controllers
         public async Task<IActionResult> AddCard([FromBody] Card card)
         {
           card.Id = Guid.NewGuid();
-            //I was trying to commmit this shiet not working
+            //I was trying to commmit 
 
           await cardsDbContext.Cards.AddAsync(card);
             await cardsDbContext.SaveChangesAsync();
