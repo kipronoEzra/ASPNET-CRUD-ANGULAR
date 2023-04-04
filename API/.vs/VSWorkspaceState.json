@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Cards",
+    "\\Cards\\Cards.API",
+    "\\Cards\\Cards.API\\Controllers",
+    "\\Cards\\Cards.API\\Data",
+    "\\Cards\\Cards.API\\Migrations",
+    "\\Cards\\Cards.API\\Models",
+    "\\Cards\\Cards.API\\Properties"
+  ],
+  "SelectedNode": "\\Cards\\Cards.sln",
+  "PreviewInSolutionExplorer": false
+}
