@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background: linear-gradient(rgba(85, 85, 202, 0.5), rgba(16, 16, 17, 0.5)), url('BG.png');
+    background-size: cover;
+    background-position: center center;
+  }
